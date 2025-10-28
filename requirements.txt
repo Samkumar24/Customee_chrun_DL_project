@@ -1,1 +1,4 @@
-source
+tensorflow 
+keras
+fastapi
+uvicorn
